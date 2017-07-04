@@ -1,10 +1,4 @@
 
-# coding: utf-8
-
-# ___
-# 
-# <a href='http://www.pieriandata.com'> <img src='../Pierian_Data_Logo.png' /></a>
-# ___
 
 # # K Nearest Neighbors Project 
 # 
@@ -203,4 +197,4 @@ print('\n')
 print(classification_report(y_test,pred))
 
 
-# # Great Job!
+
